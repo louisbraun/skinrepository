@@ -5,7 +5,7 @@
     <type>git</type>
     <url>https://github.com/Vectra130/skindesigner_glasslike.git</url>
     <author>Vectra130</author>
-    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
+    <minimumskindesignerversion>0.5.3</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>
@@ -22,10 +22,10 @@
     </screenshots>
     <specialfonts>
         <font>Roboto</font>
-        <font>DS-Digital</font>
     </specialfonts>
     <supportedplugins>
         <plugin>TVGuideNG</plugin>
         <plugin>Weatherforecast</plugin>
+        <plugin>Plex for VDR</plugin>
     </supportedplugins>
 </skinrepo>
