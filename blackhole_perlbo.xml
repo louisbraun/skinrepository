@@ -5,6 +5,7 @@
     <type>zip</type>
     <url>https://dl.dropboxusercontent.com/u/75246204/blackholePerlbo13-03.zip</url>
     <author>Perlbo</author>
+    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>

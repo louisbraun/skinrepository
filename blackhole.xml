@@ -5,6 +5,7 @@
     <type>git</type>
     <url>https://github.com/louisbraun/blackhole.git</url>
     <author>Louis</author>
+    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>

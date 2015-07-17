@@ -5,6 +5,7 @@
     <type>git</type>
     <url>https://github.com/louisbraun/nopacity.git</url>
     <author>Louis</author>
+    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
     <supportedplugins>
         <plugin>Weatherforecast</plugin>
         <plugin>TVGuideNG</plugin>

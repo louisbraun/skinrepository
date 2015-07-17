@@ -5,6 +5,7 @@
     <type>git</type>
     <url>https://github.com/Vectra130/skindesigner_vectraskin.git</url>
     <author>Vectra130</author>
+    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>

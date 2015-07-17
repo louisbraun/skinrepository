@@ -5,6 +5,7 @@
     <type>git</type>
     <url>https://github.com/CReimer/Holo</url>
     <author>Copperhead</author>
+    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>

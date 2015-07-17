@@ -5,6 +5,7 @@
     <type>git</type>
     <url>https://github.com/BooStars/tryouts</url>
     <author>Boostar</author>
+    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>
