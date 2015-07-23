@@ -4,7 +4,7 @@
     <name>tryouts</name>
     <type>git</type>
     <url>https://github.com/BooStars/tryouts</url>
-    <author>Boostar</author>
+    <author>BooStar</author>
     <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
     <screenshots>
         <screenshot>
@@ -26,5 +26,6 @@
     <supportedplugins>
         <plugin>Weatherforecast</plugin>
         <plugin>TVGuideNG</plugin>
+        <plugin>Plex</plugin>
     </supportedplugins>
 </skinrepo>
