@@ -27,5 +27,6 @@
     <supportedplugins>
         <plugin>TVGuideNG</plugin>
         <plugin>Weatherforecast</plugin>
+        <plugin>Plex</plugin>
     </supportedplugins>
 </skinrepo>
