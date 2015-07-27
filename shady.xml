@@ -21,8 +21,7 @@
         </screenshot>
     </screenshots>
     <specialfonts>
-        <font>Open Sans Light</font>
-        <font>Open Sans Semibold</font>
+        <font>Open Sans</font>
     </specialfonts>
     <supportedplugins>
         <plugin>Weatherforecast</plugin>
