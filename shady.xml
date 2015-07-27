@@ -21,8 +21,8 @@
         </screenshot>
     </screenshots>
     <specialfonts>
-        <font>VDROpen Sans Light</font>
-        <font>VDROpen Sans Semibold</font>
+        <font>Open Sans Light</font>
+        <font>Open Sans Semibold</font>
     </specialfonts>
     <supportedplugins>
         <plugin>Weatherforecast</plugin>
