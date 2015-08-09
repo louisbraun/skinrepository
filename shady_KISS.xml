@@ -5,7 +5,7 @@
     <type>git</type>
     <url>https://github.com/tomsax56/shady_KISS.git</url>
     <author>tomas</author>
-    <minimumskindesignerversion>0.6.3</minimumskindesignerversion>
+    <minimumskindesignerversion>0.7.1</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>List with detailinfos</description>
