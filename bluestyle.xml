@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <skinrepo>
-    <name>blackhole</name>
+    <name>bluestyle</name>
     <type>git</type>
     <url>https://github.com/mat130780/bluestyle.git</url>
-    <author>Louis</author>
+    <author>maz</author>
     <minimumskindesignerversion>0.7.0</minimumskindesignerversion>
     <screenshots>
         <screenshot>
