@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<skinrepo>
+    <name>blackhole</name>
+    <type>git</type>
+    <url>https://github.com/mat130780/bluestyle.git</url>
+    <author>Louis</author>
+    <minimumskindesignerversion>0.7.0</minimumskindesignerversion>
+    <screenshots>
+        <screenshot>
+            <description>Main Menu</description>
+            <url>http://www.vdr-portal.de/index.php?page=Attachment&attachmentID=38307&h=817d399d6ef112b024eca8b1a6b9660c1df807a5&s=e00a568ded811455d397bad9dc4674efb7adcfa2</url>
+        </screenshot>
+        <screenshot>
+            <description>Display Channel</description>
+            <url>http://www.vdr-portal.de/index.php?page=Attachment&attachmentID=38663&h=a90bd8541131fa5a3b61fc2f61531b36c27f5685&s=e00a568ded811455d397bad9dc4674efb7adcfa2</url>
+        </screenshot>
+        <screenshot>
+            <description>Schedules What's on now</description>
+            <url>http://www.vdr-portal.de/index.php?page=Attachment&attachmentID=38662&h=b20bda5caf77de916e1965d73801e8a70df937f6&s=e00a568ded811455d397bad9dc4674efb7adcfa2</url>
+        </screenshot>
+        <screenshot>
+            <description>Detailed EPG</description>
+            <url>http://www.vdr-portal.de/index.php?page=Attachment&attachmentID=38309&h=40b1c607d516c0e1bfb4df7a8f8ba456c430933b&s=e00a568ded811455d397bad9dc4674efb7adcfa2</url>
+        </screenshot>
+    </screenshots>
+    <specialfonts>
+        <font>Source Sans Pro</font>
+        <font>DS-Digital</font>
+    </specialfonts>
+    <supportedplugins>
+        <plugin>TVGuideNG</plugin>
+        <plugin>Weatherforecast</plugin>
+    </supportedplugins>
+</skinrepo>
