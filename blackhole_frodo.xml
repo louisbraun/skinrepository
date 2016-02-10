@@ -5,7 +5,7 @@
     <type>git</type>
     <url>https://github.com/FrodoVDR/blackholefrodo.git</url>
     <author>Frodo</author>
-    <minimumskindesignerversion>0.6.2</minimumskindesignerversion>
+    <minimumskindesignerversion>0.8.0</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>
@@ -27,6 +27,6 @@
     <supportedplugins>
         <plugin>TVGuideNG</plugin>
         <plugin>Weatherforecast</plugin>
-        <plugin>Plex</plugin>
+<!--        <plugin>Plex</plugin> -->
     </supportedplugins>
 </skinrepo>
