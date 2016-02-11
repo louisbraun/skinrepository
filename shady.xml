@@ -5,7 +5,7 @@
     <type>git</type>
     <url>https://github.com/tomsax56/shady.git</url>
     <author>tomas</author>
-    <minimumskindesignerversion>0.6.3</minimumskindesignerversion>
+    <minimumskindesignerversion>0.8.3</minimumskindesignerversion>
     <screenshots>
         <screenshot>
             <description>Main Menu</description>
@@ -26,6 +26,5 @@
     <supportedplugins>
         <plugin>Weatherforecast</plugin>
         <plugin>TVGuideNG</plugin>
-        <plugin>PlexPlugin</plugin>
     </supportedplugins>
 </skinrepo>
