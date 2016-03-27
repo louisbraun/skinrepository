@@ -24,7 +24,8 @@
         <font>Open Sans</font>
     </specialfonts>
     <supportedplugins>
-        <plugin>Weatherforecast</plugin>
+        <plugin>Plex</plugin>
         <plugin>TVGuideNG</plugin>
+        <plugin>Weatherforecast</plugin>
     </supportedplugins>
 </skinrepo>
