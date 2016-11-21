@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<skinrepo>
+    <name>reufer</name>
+    <type>zip</type>
+    <url>http://www.reufer.ch/vdr/skin-reufer/reufer.zip</url>
+    <author>Thomas Reufer</author>
+    <minimumskindesignerversion>1.2.3</minimumskindesignerversion>
+    <screenshots>
+        <screenshot>
+            <description>Main Menu</description>
+            <url>http://www.reufer.ch/vdr/skin-reufer/menu.jpg</url>
+        </screenshot>
+        <screenshot>
+            <description>Display Channel</description>
+            <url>http://www.reufer.ch/vdr/skin-reufer/program.jpg</url>
+        </screenshot>
+        <screenshot>
+            <description>Recordings Menu</description>
+            <url>http://www.reufer.ch/vdr/skin-reufer/recordings.jpg</url>
+        </screenshot>
+        <screenshot>
+            <description>Replay</description>
+            <url>http://www.reufer.ch/vdr/skin-reufer/replay.jpg</url>
+        </screenshot>
+        <screenshot>
+            <description>TVGuideNG</description>
+            <url>http://www.reufer.ch/vdr/skin-reufer/tvguide.jpg</url>
+        </screenshot>
+    </screenshots>
+    <specialfonts>
+        <font>Open Sans</font>
+    </specialfonts>
+    <supportedplugins>
+        <plugin>TVGuideNG</plugin>
+    </supportedplugins>
+</skinrepo>
